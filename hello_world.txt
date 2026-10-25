@@ -1,1 +1,2 @@
 some text
+In this text, I've just added the option to use either git commit -m "your message here" or git commit to type my message with Visual Studio Code!
